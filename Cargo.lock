@@ -11413,6 +11413,7 @@ dependencies = [
  "log",
  "solana-rpc-client",
  "solana-tpu-client-next",
+ "solana-transaction-status",
  "thiserror 2.0.18",
  "tokio",
  "tokio-util 0.7.18",
