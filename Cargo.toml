@@ -54,7 +54,6 @@ solana-commitment-config = "3.1.1"
 solana-compute-budget-interface = "3.0.0"
 solana-config-interface = "2.0.0"
 solana-connection-cache = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
-solana-core = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
 solana-epoch-info = "3.1.0"
 solana-epoch-schedule = "3.0.0"
 solana-faucet = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
@@ -62,7 +61,6 @@ solana-fee-calculator = "3.1.0"
 solana-hash = "4.2.0"
 solana-instruction = "3.2.0"
 solana-keypair = "3.1.0"
-solana-logger = "3.0.0"
 solana-measure = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
 solana-message = "3.1.0"
 solana-metrics = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
@@ -86,6 +84,7 @@ solana-time-utils = "3.0.0"
 solana-tpu-client = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
 solana-tpu-client-next = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
 solana-transaction = "3.1.0"
+solana-transaction-status = { version = "4.0.0-beta.3", features = ["agave-unstable-api"] }
 spl-memo-interface = "2.0.0"
 thiserror = "2.0.18"
 tokio = "1.50.0"
